@@ -1,11 +1,15 @@
 
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
-## 🚀 About Me
+## 🖊️ About Me
 
-🎓 I am Jaden Lund, a **Front End Web Developer** (specializing in **React Applications and Front End Design**)
+🌸 Hey there! I'm **Jaden Lund**, a **Front End Web Developer** with a passion for **React Applications** all things **design**.
 
-👨‍💻 I am currently increasing my skills with design and development, and have been working using **Figma**, **SemanticUI**, **Bootstrap**, and **TailwindCSS**. I am excited to lean about new technology and expand my skillset.
+🌼 I thrive on creating visually **stunning** and **intuitive** user experiences. My toolkit includes a variety of technologies, such as **ReactJS**, **Figma**, and a range of UI frameworks such as **Bootstrap**, **TailwindCSS**, and **Semantic UI**. I am excited to lean about new technology and expand my skillset.
+
+🌷 When I'm not immersed in code, you'll often find me expressing my creativity through art. It's a wonderful outlet that allows me to explore new ideas and perspectives, and then integrate my work back into my code.I also enjoy spending time with my two dogs and going on hikes together.
+
+🌻 I'm constantly seeking out new **challenges** and **opportunities** to grow as a developer. Whether it's tackling complex coding problems or refining the perfect design, I'm always up for the task. So, let's collaborate and bring some amazing projects to life together!
 
 ### Front-End Development
 
@@ -31,3 +35,8 @@
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jaden-lund/)
 [![medium](https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@lundjaden)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/CodingLund)
+
+## Work
+
+[![Jaden's GitHub stats](https://github-readme-stats.vercel.app/api?username=JadenLund&theme=synthwave)](https://github.com/JadenLund/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JadenLund&size_weight=0.5&theme=synthwave&count_weight=0.5)](https://github.com/JadenLund/github-readme-stats)
